@@ -1,0 +1,1673 @@
+Sl. No,District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1400,1350,01 Jan 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1400,1520,1455,01 Jan 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,1250,1350,1300,01 Jan 2020
+4,Agra,Jarar,Potato,Desi,FAQ,1200,1300,1250,01 Jan 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1200,1300,1250,01 Jan 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,01 Jan 2020
+1,Agra,Agra,Potato,Desi,FAQ,1300,1500,1400,02 Jan 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1180,1250,1200,02 Jan 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1360,1500,1420,02 Jan 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300,02 Jan 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1200,1300,1250,02 Jan 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1200,1300,1250,02 Jan 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,02 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1400,1350,03 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1300,1450,1380,03 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1180,1250,1200,03 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1370,1500,1435,03 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1250,1300,1275,03 Jan 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1200,1280,1240,03 Jan 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,03 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,04 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1240,1400,1310,04 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1170,1250,1200,04 Jan 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1220,1280,1250,04 Jan 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1000,1200,1100,04 Jan 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,04 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1280,1360,1320,05 Jan 2020
+2,Agra,Jagnair,Potato,Desi,FAQ,1250,1350,1300,05 Jan 2020
+3,Agra,Jarar,Potato,Desi,FAQ,1200,1300,1250,05 Jan 2020
+4,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,05 Jan 2020
+5,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,05 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,06 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1200,1350,1280,06 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1180,1220,1200,06 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1500,1385,06 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250,06 Jan 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1180,1250,1200,06 Jan 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,06 Jan 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,06 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,07 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1200,1400,1300,07 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1180,1220,1200,07 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1260,1420,1340,07 Jan 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1200,1280,1240,07 Jan 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,07 Jan 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1100,07 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,08 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1400,1320,08 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1180,1250,1200,08 Jan 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1240,1320,1280,08 Jan 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,08 Jan 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,08 Jan 2020
+1,Agra,Agra,Potato,Desi,FAQ,1150,1350,1250,09 Jan 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1170,1200,1180,09 Jan 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1240,1400,1305,09 Jan 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1220,1340,1280,09 Jan 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1180,1250,1200,09 Jan 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,09 Jan 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,09 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1220,1300,1260,10 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1200,1400,1300,10 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1240,1220,10 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1250,1400,1325,10 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250,10 Jan 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1200,1300,1250,10 Jan 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,10 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1220,1320,1260,11 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1200,1300,1250,11 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1180,1220,1200,11 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,1300,11 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250,11 Jan 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,11 Jan 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,11 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,12 Jan 2020
+2,Agra,Jarar,Potato,Desi,FAQ,1200,1300,1250,12 Jan 2020
+3,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,12 Jan 2020
+4,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,12 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,13 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1150,1300,1220,13 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,13 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1220,1400,1310,13 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1150,1250,1200,13 Jan 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1200,1280,1240,13 Jan 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,13 Jan 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,13 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,14 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1150,1300,1220,14 Jan 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,1285,14 Jan 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1180,1340,1260,14 Jan 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1200,1280,1240,14 Jan 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,14 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,15 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1150,1350,1250,15 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1280,1240,15 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1200,1340,1260,15 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1200,1260,1230,15 Jan 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1200,1280,1240,15 Jan 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,15 Jan 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,15 Jan 2020
+1,Agra,Agra,Potato,Desi,FAQ,1150,1300,1220,16 Jan 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,16 Jan 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250,16 Jan 2020
+4,Agra,Jarar,Potato,Desi,FAQ,1200,1280,1240,16 Jan 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,16 Jan 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,16 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1260,1230,17 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1150,1300,1225,17 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1180,1220,1200,17 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1200,1340,1250,17 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1200,1240,1220,17 Jan 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1200,1280,1240,17 Jan 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,950,1050,1000,17 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1260,1230,18 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1180,1350,1260,18 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1150,1250,1200,18 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1180,1340,1265,18 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1200,1260,1230,18 Jan 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,18 Jan 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,18 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,19 Jan 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1000,1100,1050,19 Jan 2020
+3,Agra,Jarar,Potato,Desi,FAQ,1000,1100,1050,19 Jan 2020
+4,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,19 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1220,1300,1260,20 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1200,1400,1300,20 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1180,1220,1200,20 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1150,1350,1230,20 Jan 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1200,1300,1250,20 Jan 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,20 Jan 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,20 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1220,1300,1260,21 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1200,1350,1280,21 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1000,1100,1050,21 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,1250,21 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1150,1250,1200,21 Jan 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1200,1300,1250,21 Jan 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,21 Jan 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,21 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1240,22 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1180,1350,1250,22 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1000,1050,1020,22 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,1265,22 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1200,1260,1230,22 Jan 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1200,1280,1240,22 Jan 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,22 Jan 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,22 Jan 2020
+1,Agra,Fatehabad,Potato,Desi,FAQ,900,1000,950,23 Jan 2020
+2,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250,23 Jan 2020
+3,Agra,Jarar,Potato,Desi,FAQ,1000,1200,1100,23 Jan 2020
+4,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,23 Jan 2020
+5,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,23 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,24 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1200,1350,1265,24 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,24 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1160,1320,1250,24 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1180,1220,1200,24 Jan 2020
+6,Agra,Jarar,Potato,Desi,FAQ,850,950,900,24 Jan 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,24 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1280,1240,25 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1150,1350,1260,25 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,25 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1160,1300,1230,25 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1150,1250,1200,25 Jan 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,25 Jan 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,25 Jan 2020
+1,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,26 Jan 2020
+2,Agra,Jarar,Potato,Desi,FAQ,760,860,810,26 Jan 2020
+3,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,26 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,27 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1100,1260,1180,27 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,27 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1150,1320,1200,27 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1200,1250,1225,27 Jan 2020
+6,Agra,Jarar,Potato,Desi,FAQ,760,860,810,27 Jan 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,27 Jan 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,27 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1280,1240,28 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1050,1250,1150,28 Jan 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,28 Jan 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1140,1300,1210,28 Jan 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1220,1280,1250,28 Jan 2020
+6,Agra,Jarar,Potato,Desi,FAQ,760,840,800,28 Jan 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,28 Jan 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,28 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1280,1240,29 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,1100,1260,1180,29 Jan 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1100,1250,1170,29 Jan 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1150,1210,1180,29 Jan 2020
+5,Agra,Jarar,Potato,Desi,FAQ,760,860,810,29 Jan 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,29 Jan 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,29 Jan 2020
+1,Agra,Agra,Potato,Desi,FAQ,1000,1150,1080,30 Jan 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,30 Jan 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1100,1260,1190,30 Jan 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1120,1200,1160,30 Jan 2020
+5,Agra,Jarar,Potato,Desi,FAQ,760,840,800,30 Jan 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,30 Jan 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1100,30 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1100,1180,1140,31 Jan 2020
+2,Agra,Agra,Potato,Desi,FAQ,900,1060,1000,31 Jan 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,1200,1250,1225,31 Jan 2020
+4,Agra,Jarar,Potato,Desi,FAQ,760,840,800,31 Jan 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,850,950,900,31 Jan 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1000,1100,1050,01 Feb 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,01 Feb 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1100,1250,1175,01 Feb 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1180,1260,1220,01 Feb 2020
+5,Agra,Samsabad,Potato,Local,FAQ,700,850,800,01 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1000,1080,1040,02 Feb 2020
+2,Agra,Jarar,Potato,Desi,FAQ,600,700,650,02 Feb 2020
+3,Agra,Samsabad,Potato,Local,FAQ,700,850,800,02 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,940,1020,980,03 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,900,1050,980,03 Feb 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1060,1240,1145,03 Feb 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,03 Feb 2020
+5,Agra,Jarar,Potato,Desi,FAQ,600,700,650,03 Feb 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,850,950,900,03 Feb 2020
+7,Agra,Samsabad,Potato,Local,FAQ,700,900,800,03 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,900,960,930,04 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,900,1050,970,04 Feb 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,04 Feb 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,04 Feb 2020
+5,Agra,Jarar,Potato,Desi,FAQ,720,820,770,04 Feb 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,04 Feb 2020
+7,Agra,Samsabad,Potato,Local,FAQ,700,900,800,04 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,940,1020,980,05 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,900,1100,980,05 Feb 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,05 Feb 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,1025,05 Feb 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1000,1050,1025,05 Feb 2020
+6,Agra,Jarar,Potato,Desi,FAQ,720,820,770,05 Feb 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,05 Feb 2020
+8,Agra,Samsabad,Potato,Local,FAQ,700,900,800,05 Feb 2020
+1,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,1040,06 Feb 2020
+2,Agra,Jagnair,Potato,Desi,FAQ,1000,1080,1040,06 Feb 2020
+3,Agra,Jarar,Potato,Desi,FAQ,680,770,720,06 Feb 2020
+4,Agra,Samsabad,Potato,Local,FAQ,700,900,800,06 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,940,1010,970,07 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,820,1000,900,07 Feb 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,1010,07 Feb 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1100,1150,1125,07 Feb 2020
+5,Agra,Jarar,Potato,Desi,FAQ,670,770,720,07 Feb 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,850,950,900,07 Feb 2020
+7,Agra,Samsabad,Potato,Local,FAQ,700,900,800,07 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,900,1000,950,08 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,850,1000,920,08 Feb 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,1025,08 Feb 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1000,1080,1040,08 Feb 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,08 Feb 2020
+6,Agra,Samsabad,Potato,Local,FAQ,700,900,800,08 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,940,1000,970,09 Feb 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,09 Feb 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,1000,1080,1040,09 Feb 2020
+4,Agra,Jarar,Potato,Desi,FAQ,680,780,730,09 Feb 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,09 Feb 2020
+6,Agra,Samsabad,Potato,Local,FAQ,700,900,800,09 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,920,1000,960,10 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,850,1000,910,10 Feb 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,700,800,750,10 Feb 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,900,1050,980,10 Feb 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,10 Feb 2020
+6,Agra,Jarar,Potato,Desi,FAQ,700,800,750,10 Feb 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,10 Feb 2020
+8,Agra,Samsabad,Potato,Local,FAQ,700,900,800,10 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,900,1000,950,11 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,810,980,900,11 Feb 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,11 Feb 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,930,1080,1000,11 Feb 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,950,1050,1000,11 Feb 2020
+6,Agra,Jarar,Potato,Desi,FAQ,710,810,760,11 Feb 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,11 Feb 2020
+8,Agra,Samsabad,Potato,Local,FAQ,750,900,800,11 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,900,980,940,12 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,850,1000,920,12 Feb 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,12 Feb 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,950,1100,1030,12 Feb 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1050,1100,1075,12 Feb 2020
+6,Agra,Jarar,Potato,Desi,FAQ,710,800,750,12 Feb 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,12 Feb 2020
+8,Agra,Samsabad,Potato,Local,FAQ,750,900,800,12 Feb 2020
+1,Agra,Agra,Potato,Desi,FAQ,800,1000,910,13 Feb 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,13 Feb 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,900,1050,980,13 Feb 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1100,1200,1150,13 Feb 2020
+5,Agra,Jarar,Potato,Desi,FAQ,670,770,720,13 Feb 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,13 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,880,960,920,14 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,800,1000,900,14 Feb 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,900,1020,950,14 Feb 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1100,1140,1120,14 Feb 2020
+5,Agra,Jarar,Potato,Desi,FAQ,680,760,720,14 Feb 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,14 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,850,950,900,15 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,810,1000,905,15 Feb 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,15 Feb 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,900,1040,970,15 Feb 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1120,1200,1180,15 Feb 2020
+6,Agra,Samsabad,Potato,Local,FAQ,750,900,800,15 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,880,980,930,16 Feb 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,16 Feb 2020
+3,Agra,Jarar,Potato,Desi,FAQ,640,740,690,16 Feb 2020
+4,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,16 Feb 2020
+5,Agra,Samsabad,Potato,Local,FAQ,750,900,800,16 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,870,950,910,17 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,800,980,910,17 Feb 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,700,800,750,17 Feb 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,900,1050,980,17 Feb 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1100,1200,1150,17 Feb 2020
+6,Agra,Jarar,Potato,Desi,FAQ,640,720,680,17 Feb 2020
+7,Agra,Samsabad,Potato,Local,FAQ,750,900,800,17 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,900,960,930,18 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,800,1000,900,18 Feb 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,700,750,720,18 Feb 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,900,1050,965,18 Feb 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1100,1200,1150,18 Feb 2020
+6,Agra,Jarar,Potato,Desi,FAQ,650,730,700,18 Feb 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,18 Feb 2020
+8,Agra,Samsabad,Potato,Local,FAQ,850,1000,900,18 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,900,960,930,19 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,800,1000,900,19 Feb 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,900,1050,975,19 Feb 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1100,1180,1140,19 Feb 2020
+5,Agra,Jarar,Potato,Desi,FAQ,650,730,690,19 Feb 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,19 Feb 2020
+7,Agra,Samsabad,Potato,Local,FAQ,800,1000,900,19 Feb 2020
+1,Agra,Agra,Potato,Desi,FAQ,800,1000,890,20 Feb 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,20 Feb 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,900,1040,950,20 Feb 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1100,1180,1140,20 Feb 2020
+5,Agra,Jarar,Potato,Desi,FAQ,700,800,750,20 Feb 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,20 Feb 2020
+7,Agra,Samsabad,Potato,Local,FAQ,800,1000,900,20 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,900,960,930,21 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,800,950,870,21 Feb 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,700,750,720,21 Feb 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,900,21 Feb 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1100,1180,1140,21 Feb 2020
+6,Agra,Jarar,Potato,Desi,FAQ,700,800,750,21 Feb 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,21 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,840,920,880,22 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,800,950,880,22 Feb 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,22 Feb 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,865,22 Feb 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1100,1180,1140,22 Feb 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,22 Feb 2020
+7,Agra,Samsabad,Potato,Local,FAQ,800,1000,900,22 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,840,910,870,23 Feb 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,23 Feb 2020
+3,Agra,Jarar,Potato,Desi,FAQ,700,800,750,23 Feb 2020
+4,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,23 Feb 2020
+5,Agra,Samsabad,Potato,Local,FAQ,800,1000,900,23 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,860,900,880,24 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,800,980,870,24 Feb 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,24 Feb 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,970,890,24 Feb 2020
+5,Agra,Jarar,Potato,Desi,FAQ,700,800,750,24 Feb 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,24 Feb 2020
+7,Agra,Samsabad,Potato,Local,FAQ,800,1000,900,24 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,840,900,870,25 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,800,960,880,25 Feb 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,900,820,25 Feb 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,940,880,25 Feb 2020
+5,Agra,Jarar,Potato,Desi,FAQ,700,800,750,25 Feb 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,25 Feb 2020
+7,Agra,Samsabad,Potato,Local,FAQ,800,1000,900,25 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,860,940,900,26 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,800,950,870,26 Feb 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,26 Feb 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,950,865,26 Feb 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,26 Feb 2020
+6,Agra,Jarar,Potato,Desi,FAQ,700,780,740,26 Feb 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,26 Feb 2020
+8,Agra,Samsabad,Potato,Local,FAQ,800,1000,900,26 Feb 2020
+1,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,27 Feb 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,980,895,27 Feb 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,27 Feb 2020
+4,Agra,Jarar,Potato,Desi,FAQ,700,800,750,27 Feb 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,27 Feb 2020
+6,Agra,Samsabad,Potato,Local,FAQ,800,1000,900,27 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,800,900,850,28 Feb 2020
+2,Agra,Agra,Potato,Desi,FAQ,780,980,860,28 Feb 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,940,880,28 Feb 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1000,1080,1040,28 Feb 2020
+5,Agra,Jarar,Potato,Desi,FAQ,700,780,740,28 Feb 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,28 Feb 2020
+7,Agra,Samsabad,Potato,Local,FAQ,800,1000,900,28 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,820,900,860,29 Feb 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,29 Feb 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,950,890,29 Feb 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,29 Feb 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,29 Feb 2020
+6,Agra,Samsabad,Potato,Local,FAQ,800,1000,900,29 Feb 2020
+1,Agra,Achnera,Potato,Desi,FAQ,800,880,840,01 Mar 2020
+2,Agra,Jarar,Potato,Desi,FAQ,800,900,850,01 Mar 2020
+3,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,01 Mar 2020
+4,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,01 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,800,880,840,02 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,780,920,855,02 Mar 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,750,850,800,02 Mar 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,830,980,905,02 Mar 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,850,950,900,02 Mar 2020
+6,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,02 Mar 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,02 Mar 2020
+8,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,02 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,800,900,850,03 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,750,950,850,03 Mar 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,03 Mar 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,880,1000,940,03 Mar 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,03 Mar 2020
+6,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,03 Mar 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,850,950,900,03 Mar 2020
+8,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,03 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,800,900,850,04 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,880,1050,950,04 Mar 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,900,1040,975,04 Mar 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,04 Mar 2020
+5,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,04 Mar 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,04 Mar 2020
+7,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,04 Mar 2020
+1,Agra,Agra,Potato,Desi,FAQ,980,1150,1050,05 Mar 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,880,1020,960,05 Mar 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,800,1000,900,05 Mar 2020
+4,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,05 Mar 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,05 Mar 2020
+6,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,05 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,900,1000,950,06 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,1050,1200,1120,06 Mar 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,06 Mar 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,900,1040,980,06 Mar 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,06 Mar 2020
+6,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,06 Mar 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,06 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1050,1150,1100,07 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,1080,1220,1140,07 Mar 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,07 Mar 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,940,1050,1000,07 Mar 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,07 Mar 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,07 Mar 2020
+7,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,07 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1050,1150,1100,08 Mar 2020
+2,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,08 Mar 2020
+3,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,08 Mar 2020
+4,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,08 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1050,1150,1100,09 Mar 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,09 Mar 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,860,940,900,09 Mar 2020
+4,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,09 Mar 2020
+5,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,09 Mar 2020
+1,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,10 Mar 2020
+2,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,10 Mar 2020
+1,Agra,Agra,Potato,Desi,FAQ,1150,1300,1220,11 Mar 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1000,1150,1070,11 Mar 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,11 Mar 2020
+4,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,11 Mar 2020
+5,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,11 Mar 2020
+1,Agra,Agra,Potato,Desi,FAQ,1100,1300,1200,12 Mar 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,12 Mar 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1040,1180,1100,12 Mar 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,12 Mar 2020
+5,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,12 Mar 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,12 Mar 2020
+7,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,12 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1180,1240,1210,13 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,1100,1300,1215,13 Mar 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1100,1250,1175,13 Mar 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,13 Mar 2020
+5,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,13 Mar 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,13 Mar 2020
+7,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,13 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1180,1260,1220,14 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,1050,1250,1150,14 Mar 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,14 Mar 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1050,1200,1140,14 Mar 2020
+5,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,14 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,15 Mar 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,15 Mar 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,850,950,900,15 Mar 2020
+4,Agra,Jarar,Potato,Desi,FAQ,850,950,900,15 Mar 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,850,950,900,15 Mar 2020
+6,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,15 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,16 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,1100,1250,1170,16 Mar 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,16 Mar 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1050,1200,1125,16 Mar 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,800,900,850,16 Mar 2020
+6,Agra,Jarar,Potato,Desi,FAQ,850,950,900,16 Mar 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,16 Mar 2020
+8,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,16 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1140,1220,1180,17 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,1100,1280,1180,17 Mar 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,800,900,850,17 Mar 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,850,950,900,17 Mar 2020
+5,Agra,Jarar,Potato,Desi,FAQ,800,900,850,17 Mar 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,17 Mar 2020
+7,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,17 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1150,1250,1200,18 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,1120,1260,1190,18 Mar 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1060,1220,1145,18 Mar 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,18 Mar 2020
+5,Agra,Jarar,Potato,Desi,FAQ,800,880,840,18 Mar 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,18 Mar 2020
+7,Agra,Samsabad,Potato,Local,FAQ,900,1000,1000,18 Mar 2020
+1,Agra,Agra,Potato,Desi,FAQ,1100,1280,1200,19 Mar 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,850,900,880,19 Mar 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1040,1240,1120,19 Mar 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1000,1060,1030,19 Mar 2020
+5,Agra,Jarar,Potato,Desi,FAQ,800,900,850,19 Mar 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,19 Mar 2020
+7,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,19 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1260,1230,20 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,1100,1300,1200,20 Mar 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,700,750,720,20 Mar 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1020,1220,1100,20 Mar 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,20 Mar 2020
+6,Agra,Jarar,Potato,Desi,FAQ,800,900,850,20 Mar 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,20 Mar 2020
+8,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,20 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1150,1250,1200,21 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,1150,1300,1210,21 Mar 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1060,1220,1145,21 Mar 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,950,1050,1000,21 Mar 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,850,950,900,21 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1150,1250,1200,22 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1150,1250,1200,23 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1150,1250,1200,24 Mar 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,800,900,830,24 Mar 2020
+3,Agra,Khairagarh,Potato,Desi,FAQ,900,1000,950,24 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,25 Mar 2020
+2,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,25 Mar 2020
+3,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,25 Mar 2020
+4,Agra,Samsabad,Potato,Local,FAQ,800,1200,1000,25 Mar 2020
+1,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,26 Mar 2020
+2,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,26 Mar 2020
+3,Agra,Samsabad,Potato,Local,FAQ,800,1200,1000,26 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1400,1350,27 Mar 2020
+2,Agra,Jagnair,Potato,Desi,FAQ,950,1000,975,27 Mar 2020
+3,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,27 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1150,1250,1200,28 Mar 2020
+2,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,28 Mar 2020
+3,Agra,Samsabad,Potato,Local,FAQ,900,1200,1000,28 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1150,1250,1200,29 Mar 2020
+2,Agra,Jagnair,Potato,Desi,FAQ,1050,1150,1100,29 Mar 2020
+3,Agra,Jarar,Potato,Desi,FAQ,850,950,900,29 Mar 2020
+4,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,29 Mar 2020
+5,Agra,Samsabad,Potato,Local,FAQ,900,1200,1000,29 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1150,1250,1200,30 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,1650,1800,1720,30 Mar 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1160,1320,1245,30 Mar 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1100,1200,1150,30 Mar 2020
+5,Agra,Jarar,Potato,Desi,FAQ,850,950,900,30 Mar 2020
+6,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,30 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1150,1250,1200,31 Mar 2020
+2,Agra,Agra,Potato,Desi,FAQ,1650,1850,1750,31 Mar 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,31 Mar 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,31 Mar 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,31 Mar 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,31 Mar 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1150,1250,1200,31 Mar 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1150,1250,1200,01 Apr 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,01 Apr 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1220,1450,1340,01 Apr 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1100,1200,1150,01 Apr 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1150,1200,1180,01 Apr 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,01 Apr 2020
+7,Agra,Samsabad,Potato,Local,FAQ,900,1100,1000,01 Apr 2020
+1,Agra,Agra,Potato,Desi,FAQ,1500,1650,1580,02 Apr 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1100,1200,1150,02 Apr 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1450,1370,02 Apr 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,02 Apr 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,02 Apr 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,02 Apr 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,02 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1150,1250,1200,03 Apr 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1260,1450,1355,03 Apr 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250,03 Apr 2020
+4,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,03 Apr 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,03 Apr 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,03 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,04 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1150,1300,1220,04 Apr 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1000,1100,1050,04 Apr 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1440,1380,04 Apr 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1300,1400,1350,04 Apr 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,04 Apr 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,04 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1100,1200,1150,05 Apr 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1150,1200,1180,05 Apr 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,05 Apr 2020
+4,Agra,Jarar,Potato,Desi,FAQ,800,900,850,05 Apr 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,850,950,900,05 Apr 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,05 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1150,1250,1200,06 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1180,1350,1250,06 Apr 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1100,1200,1150,06 Apr 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1420,1365,06 Apr 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1300,1400,1350,06 Apr 2020
+6,Agra,Jarar,Potato,Desi,FAQ,810,910,860,06 Apr 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,06 Apr 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,06 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,07 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1200,1320,1260,07 Apr 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1100,1200,1150,07 Apr 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1280,1400,1340,07 Apr 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,07 Apr 2020
+6,Agra,Jarar,Potato,Desi,FAQ,810,910,860,07 Apr 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,07 Apr 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,07 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1230,1350,1290,08 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1180,1320,1260,08 Apr 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1050,1200,1100,08 Apr 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1280,1400,1355,08 Apr 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300,08 Apr 2020
+6,Agra,Jarar,Potato,Desi,FAQ,800,900,850,08 Apr 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,08 Apr 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,08 Apr 2020
+1,Agra,Agra,Potato,Desi,FAQ,1250,1400,1320,09 Apr 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1100,1200,1150,09 Apr 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1260,1380,1320,09 Apr 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,09 Apr 2020
+5,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,09 Apr 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,09 Apr 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,09 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,10 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1200,1350,1280,10 Apr 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1260,1400,1335,10 Apr 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1300,1400,1350,10 Apr 2020
+5,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,10 Apr 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,10 Apr 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,10 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,11 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1220,1400,1310,11 Apr 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1100,1200,1150,11 Apr 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1240,1400,1310,11 Apr 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,11 Apr 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,11 Apr 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,11 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,12 Apr 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1100,1150,1120,12 Apr 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,1300,1400,1350,12 Apr 2020
+4,Agra,Jarar,Potato,Desi,FAQ,820,920,870,12 Apr 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,12 Apr 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,12 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,13 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1200,1350,1290,13 Apr 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1150,1200,1180,13 Apr 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1250,1420,1340,13 Apr 2020
+5,Agra,Jarar,Potato,Desi,FAQ,900,1000,950,13 Apr 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,13 Apr 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,13 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1150,1250,1200,14 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1400,1310,14 Apr 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1100,1200,1150,14 Apr 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1420,1355,14 Apr 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,14 Apr 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,14 Apr 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,14 Apr 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,14 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,15 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1240,1400,1310,15 Apr 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,15 Apr 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1240,1400,1320,15 Apr 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,15 Apr 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,15 Apr 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,15 Apr 2020
+1,Agra,Agra,Potato,Desi,FAQ,1220,1400,1300,16 Apr 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,16 Apr 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1260,1400,1345,16 Apr 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,16 Apr 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,16 Apr 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,16 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,17 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1400,1325,17 Apr 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1260,1420,1365,17 Apr 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,17 Apr 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,17 Apr 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,17 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1300,1250,18 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1400,1330,18 Apr 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,18 Apr 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1260,1400,1325,18 Apr 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,18 Apr 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,18 Apr 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,18 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1220,1320,1270,19 Apr 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1430,19 Apr 2020
+3,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,19 Apr 2020
+4,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,19 Apr 2020
+5,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,19 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1320,1260,20 Apr 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1400,1500,1450,20 Apr 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1260,1400,1340,20 Apr 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,20 Apr 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,20 Apr 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,20 Apr 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,20 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,21 Apr 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1240,1400,1320,21 Apr 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,1400,1450,1425,21 Apr 2020
+4,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,21 Apr 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,21 Apr 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,21 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1280,1340,1310,22 Apr 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1260,1400,1345,22 Apr 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,22 Apr 2020
+4,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,22 Apr 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,22 Apr 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,22 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1400,1350,23 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1400,1320,23 Apr 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1420,1355,23 Apr 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,23 Apr 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,23 Apr 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,23 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1400,1350,24 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1400,1325,24 Apr 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1320,1450,1375,24 Apr 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,24 Apr 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,24 Apr 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,24 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1280,1380,1330,25 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1400,1325,25 Apr 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1320,1450,1390,25 Apr 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,950,1050,1000,25 Apr 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1450,1550,1500,25 Apr 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1200,1500,1400,25 Apr 2020
+1,Agra,Jagnair,Potato,Desi,FAQ,1400,1440,1420,26 Apr 2020
+2,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,26 Apr 2020
+3,Agra,Samsabad,Potato,Local,FAQ,1300,1500,1400,26 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1400,1350,27 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1400,1330,27 Apr 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1450,1380,27 Apr 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1400,1440,1420,27 Apr 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,27 Apr 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,27 Apr 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1300,1500,1400,27 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1380,1340,28 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1400,1325,28 Apr 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1320,1460,1380,28 Apr 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,28 Apr 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,28 Apr 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,28 Apr 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1400,1400,28 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,29 Apr 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1400,1330,29 Apr 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1360,1480,1410,29 Apr 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,29 Apr 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,29 Apr 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,29 Apr 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1200,1500,1400,29 Apr 2020
+1,Agra,Agra,Potato,Desi,FAQ,1250,1400,1330,30 Apr 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1350,1460,1400,30 Apr 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,30 Apr 2020
+4,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,30 Apr 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,30 Apr 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1200,1400,1400,30 Apr 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,01 May 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1380,1500,1440,01 May 2020
+3,Agra,Jarar,Potato,Desi,FAQ,1310,1400,1350,01 May 2020
+4,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,01 May 2020
+5,Agra,Samsabad,Potato,Local,FAQ,1200,1400,1400,01 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,02 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1400,1325,02 May 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1340,1480,1400,02 May 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1250,1350,1300,02 May 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,02 May 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1200,1400,1400,02 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,03 May 2020
+2,Agra,Jarar,Potato,Desi,FAQ,1310,1400,1360,03 May 2020
+3,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,03 May 2020
+4,Agra,Samsabad,Potato,Local,FAQ,1300,1500,1400,03 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,04 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1400,1340,04 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1500,1450,04 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1450,1385,04 May 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,04 May 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,04 May 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1200,1400,1400,04 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,05 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1400,1330,05 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1500,1450,05 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1440,1360,05 May 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,05 May 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300,05 May 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,05 May 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1200,1500,1400,05 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,06 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1260,1400,1330,06 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1500,1450,06 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1250,1400,1335,06 May 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,06 May 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300,06 May 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,06 May 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1300,1500,1400,06 May 2020
+1,Agra,Agra,Potato,Desi,FAQ,1280,1400,1325,07 May 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,07 May 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1340,1480,1400,07 May 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1400,1440,1420,07 May 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300,07 May 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,07 May 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1300,1500,1400,07 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1220,1320,1270,08 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1300,1400,1340,08 May 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1450,1365,08 May 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,08 May 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300,08 May 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1300,1400,1350,08 May 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1300,1500,1400,08 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1250,1350,1300,09 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1260,1400,1330,09 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,09 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1320,1450,1385,09 May 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1400,1480,1440,09 May 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,09 May 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1200,1500,1400,09 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1240,1340,1290,10 May 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,10 May 2020
+3,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300,10 May 2020
+4,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,10 May 2020
+5,Agra,Samsabad,Potato,Local,FAQ,1850,1950,1925,10 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1260,1340,1300,11 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1400,1325,11 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,11 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1420,1350,11 May 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1400,1450,1425,11 May 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300,11 May 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,11 May 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,11 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1270,1350,1310,12 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1400,1335,12 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1500,1450,12 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1800,1940,1870,12 May 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1400,1450,1425,12 May 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1200,1400,1300,12 May 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,12 May 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1400,1200,12 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1270,1370,1320,13 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1400,1330,13 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1500,1450,13 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1420,1355,13 May 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,13 May 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1300,1200,13 May 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1300,1400,1350,13 May 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,13 May 2020
+1,Agra,Agra,Potato,Desi,FAQ,1250,1400,1330,14 May 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,14 May 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1280,1420,1365,14 May 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,14 May 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,14 May 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,14 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1280,1380,1320,15 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1260,1390,1325,15 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1430,15 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1340,1480,1400,15 May 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1400,1440,1420,15 May 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,15 May 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,15 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1330,1390,1360,16 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1260,1400,1330,16 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,16 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1350,1480,1415,16 May 2020
+5,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,16 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1280,1240,17 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1400,1340,17 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,17 May 2020
+4,Agra,Jarar,Potato,Desi,FAQ,1400,1450,1420,17 May 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1400,1500,1450,17 May 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,17 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1280,1240,18 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1400,1330,18 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,18 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1320,1450,1390,18 May 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,18 May 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,18 May 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1200,1300,1250,18 May 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,18 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1200,1260,1230,19 May 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1400,1500,1450,19 May 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1340,1460,1400,19 May 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,19 May 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,19 May 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,19 May 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,19 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1240,1340,1290,20 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1400,1340,20 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,20 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1370,1490,1425,20 May 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,20 May 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,20 May 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,20 May 2020
+1,Agra,Agra,Potato,Desi,FAQ,1280,1420,1350,21 May 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1400,1500,1450,21 May 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1380,1500,1440,21 May 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1400,1440,1420,21 May 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1200,1300,1250,21 May 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,21 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1380,1340,22 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1420,1340,22 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,22 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1000,1090,1045,22 May 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1400,1450,1425,22 May 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,22 May 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,22 May 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,22 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1390,1345,23 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1400,1345,23 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,23 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1450,1380,23 May 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1400,1440,1420,23 May 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,23 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1360,1330,24 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1400,1330,24 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1230,24 May 2020
+4,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,24 May 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,24 May 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,24 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1380,1340,25 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1450,1340,25 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,25 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1420,1345,25 May 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,25 May 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1200,1300,1250,25 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1320,1380,1350,26 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1450,1345,26 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,26 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1430,1365,26 May 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1400,1440,1420,26 May 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,26 May 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,26 May 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,26 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1380,1340,27 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1420,1350,27 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,27 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1420,1375,27 May 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,27 May 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,27 May 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,27 May 2020
+1,Agra,Agra,Potato,Desi,FAQ,1250,1450,1340,28 May 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1280,1250,28 May 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1340,1480,1400,28 May 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1400,1440,1420,28 May 2020
+5,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,28 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1370,1335,29 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1450,1350,29 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,29 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1450,1380,29 May 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1350,1450,1400,29 May 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,29 May 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,29 May 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,29 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1300,1380,1340,30 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1450,1340,30 May 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,30 May 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1350,1480,1410,30 May 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1380,1460,1420,30 May 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,30 May 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,30 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1320,1380,1350,31 May 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1410,1350,31 May 2020
+3,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,31 May 2020
+4,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,31 May 2020
+5,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,31 May 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1330,1400,1370,01 Jun 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,01 Jun 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1450,1380,01 Jun 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1320,1360,1340,01 Jun 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1120,1200,1160,01 Jun 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,01 Jun 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,01 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1320,1400,1360,02 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1400,1335,02 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,02 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1340,1480,1410,02 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1300,1350,1325,02 Jun 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1110,1200,1150,02 Jun 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1200,1300,1250,02 Jun 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,02 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1340,1400,1370,03 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1450,1340,03 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,03 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1450,1395,03 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1300,1340,1320,03 Jun 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,03 Jun 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,03 Jun 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,03 Jun 2020
+1,Agra,Agra,Potato,Desi,FAQ,1250,1420,1345,04 Jun 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,04 Jun 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1380,1420,1405,04 Jun 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1310,1370,1340,04 Jun 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,04 Jun 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,04 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1360,1440,1400,05 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1420,1340,05 Jun 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1320,1450,1385,05 Jun 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1350,1400,1375,05 Jun 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,05 Jun 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,05 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1370,1430,1400,06 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1420,1335,06 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,06 Jun 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1320,1380,1350,06 Jun 2020
+5,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,06 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1350,1450,1400,07 Jun 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,07 Jun 2020
+3,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,07 Jun 2020
+4,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,07 Jun 2020
+5,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,07 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1380,1460,1420,08 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1450,1330,08 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,08 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1420,1365,08 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1350,1400,1375,08 Jun 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,08 Jun 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1200,1300,1250,08 Jun 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,08 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1400,1460,1430,09 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1240,1400,1320,09 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,09 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1300,1450,1380,09 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1280,1320,1300,09 Jun 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,09 Jun 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,09 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1400,1480,1440,10 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1450,1350,10 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1230,10 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1320,1540,1415,10 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1300,1340,1320,10 Jun 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,10 Jun 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,10 Jun 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,10 Jun 2020
+1,Agra,Agra,Potato,Desi,FAQ,1280,1440,1345,11 Jun 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,11 Jun 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1360,1500,1425,11 Jun 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250,11 Jun 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1200,1250,1220,11 Jun 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,11 Jun 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,11 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1400,1460,1430,12 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1450,1340,12 Jun 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1340,1480,1405,12 Jun 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1320,1360,1340,12 Jun 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,12 Jun 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,12 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1400,1480,1440,13 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1450,1350,13 Jun 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,1410,13 Jun 2020
+4,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,13 Jun 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1200,1300,1250,13 Jun 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,13 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1400,1480,1440,14 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1450,1340,14 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,14 Jun 2020
+4,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,14 Jun 2020
+5,Agra,Samsabad,Potato,Local,FAQ,1100,1400,1200,14 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1400,1480,1440,15 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1250,1450,1350,15 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,15 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1320,1450,1380,15 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1300,1350,1325,15 Jun 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,15 Jun 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,15 Jun 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1100,1400,1200,15 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1400,1480,1440,16 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1280,1450,1360,16 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,16 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1360,1520,1440,16 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1300,1360,1330,16 Jun 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,16 Jun 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,16 Jun 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1000,1400,1200,16 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1450,1500,1480,17 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1300,1450,1380,17 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,17 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1400,1520,1465,17 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1320,1360,1340,17 Jun 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,17 Jun 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,17 Jun 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1100,1400,1200,17 Jun 2020
+1,Agra,Agra,Potato,Desi,FAQ,1300,1480,1370,18 Jun 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,18 Jun 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1370,1520,1450,18 Jun 2020
+4,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,18 Jun 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,18 Jun 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,18 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1420,1480,1450,19 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1320,1500,1420,19 Jun 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1380,1520,1465,19 Jun 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1300,1380,1340,19 Jun 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1100,1190,1140,19 Jun 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,19 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1400,1500,1450,20 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1300,1500,1410,20 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,20 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1430,1570,1500,20 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1250,1350,1300,20 Jun 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,20 Jun 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,20 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1450,1550,1500,21 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1480,1560,1520,22 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1300,1500,1400,22 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,22 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1370,1520,1445,22 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1320,1360,1340,22 Jun 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,22 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1430,1530,1480,23 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1350,1550,1450,23 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,23 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1400,1540,1485,23 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1300,1360,1330,23 Jun 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,23 Jun 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,23 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1440,1510,1480,24 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1350,1550,1460,24 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1350,1250,24 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1460,1590,1520,24 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1330,1350,1340,24 Jun 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,24 Jun 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,24 Jun 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,24 Jun 2020
+1,Agra,Agra,Potato,Desi,FAQ,1350,1550,1450,25 Jun 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,25 Jun 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1430,1590,1505,25 Jun 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1300,1320,1310,25 Jun 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1110,1200,1150,25 Jun 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,25 Jun 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,25 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1430,1500,1470,26 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1400,1600,1500,26 Jun 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1450,1600,1525,26 Jun 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1300,1360,1330,26 Jun 2020
+5,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,26 Jun 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,26 Jun 2020
+7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,26 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1400,1480,1440,27 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1400,1600,1490,27 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1350,1250,27 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1470,1620,1545,27 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1300,1360,1330,27 Jun 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,27 Jun 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,27 Jun 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,27 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1410,1490,1450,28 Jun 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,28 Jun 2020
+3,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,28 Jun 2020
+4,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,28 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1430,1500,1470,29 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1400,1560,1480,29 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1350,1250,29 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1420,1580,1510,29 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1300,1330,1315,29 Jun 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,29 Jun 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,29 Jun 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,29 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1430,1490,1460,30 Jun 2020
+2,Agra,Agra,Potato,Desi,FAQ,1400,1600,1500,30 Jun 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,30 Jun 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1400,1550,1480,30 Jun 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1300,1320,1310,30 Jun 2020
+6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,30 Jun 2020
+7,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,30 Jun 2020
+8,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,30 Jun 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1440,1530,1490,01 Jul 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,01 Jul 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1440,1600,1525,01 Jul 2020
+4,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,01 Jul 2020
+1,Agra,Agra,Potato,Desi,FAQ,1400,1600,1520,02 Jul 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1470,1600,1545,02 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1470,1530,1500,03 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1450,1650,1560,03 Jul 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1500,1650,1580,03 Jul 2020
+4,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,03 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1500,1600,1550,04 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1450,1650,1550,04 Jul 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1200,04 Jul 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1550,1700,1610,04 Jul 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,04 Jul 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,04 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1500,1580,1540,05 Jul 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1400,1250,05 Jul 2020
+3,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,05 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1520,1600,1560,06 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1550,1700,1620,06 Jul 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,06 Jul 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1500,1650,1575,06 Jul 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1000,1100,1050,06 Jul 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1300,1500,1400,06 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1550,1650,1600,07 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1520,1750,1625,07 Jul 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1330,1250,07 Jul 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1500,1670,1590,07 Jul 2020
+5,Agra,Khairagarh,Potato,Desi,FAQ,1100,1200,1150,07 Jul 2020
+6,Agra,Samsabad,Potato,Local,FAQ,1400,1600,1500,07 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1580,1650,1620,08 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1550,1750,1630,08 Jul 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1560,1720,1645,08 Jul 2020
+1,Agra,Agra,Potato,Desi,FAQ,1550,1750,1650,09 Jul 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1600,1750,1680,09 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1650,1710,1680,10 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1600,1800,1700,10 Jul 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1650,1780,1715,10 Jul 2020
+1,Agra,Agra,Potato,Desi,FAQ,1650,1800,1720,11 Jul 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1700,1820,1745,11 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1730,1830,1780,13 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1650,1800,1730,13 Jul 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,13 Jul 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1700,1850,1780,13 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1720,1820,1770,14 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1600,1800,1710,14 Jul 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1350,1250,14 Jul 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1660,1820,1750,14 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1700,1750,1725,15 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1700,1900,1800,15 Jul 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1400,1250,15 Jul 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1720,1920,1800,15 Jul 2020
+1,Agra,Agra,Potato,Desi,FAQ,1700,1900,1800,16 Jul 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,16 Jul 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1700,1820,1765,16 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1750,1850,1800,17 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1700,1850,1780,17 Jul 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1680,1850,1780,17 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1760,1820,1790,18 Jul 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,1820,18 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1760,1840,1800,19 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1800,1880,1840,20 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1650,1880,1770,20 Jul 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,20 Jul 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1760,1920,1850,20 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1840,1920,1880,21 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1700,1900,1800,21 Jul 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,21 Jul 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1800,1950,1885,21 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1750,1850,1800,22 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1700,1900,1810,22 Jul 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1350,1250,22 Jul 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1820,1980,1900,22 Jul 2020
+1,Agra,Agra,Potato,Desi,FAQ,1750,1900,1830,23 Jul 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1800,1960,1875,23 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1800,1880,1840,24 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1750,1900,1825,24 Jul 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1250,1220,24 Jul 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1780,1920,1850,24 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1800,1840,1820,25 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1750,1950,1850,25 Jul 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1450,1300,25 Jul 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1800,1950,1880,25 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1800,1880,1840,26 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1800,1880,1840,27 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1800,1950,1870,27 Jul 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1800,1920,1865,27 Jul 2020
+1,Agra,Agra,Potato,Desi,FAQ,1800,1950,1880,28 Jul 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1400,1250,28 Jul 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1870,1920,1890,28 Jul 2020
+1,Agra,Agra,Potato,Desi,FAQ,1800,1950,1880,29 Jul 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1800,2020,1920,29 Jul 2020
+1,Agra,Agra,Potato,Desi,FAQ,1780,1950,1870,30 Jul 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,30 Jul 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1810,1980,1905,30 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1820,1900,1860,31 Jul 2020
+2,Agra,Agra,Potato,Desi,FAQ,1800,1950,1890,31 Jul 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1840,2000,1930,31 Jul 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1830,1930,1880,01 Aug 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1800,1980,1895,01 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1850,1930,1890,02 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1860,1940,1900,03 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1800,2000,1890,03 Aug 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1800,1920,1860,03 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1850,1930,1890,04 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1800,2000,1900,04 Aug 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,04 Aug 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1800,1950,1875,04 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1860,1940,1900,05 Aug 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,05 Aug 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1800,1950,1885,05 Aug 2020
+1,Agra,Agra,Potato,Desi,FAQ,1800,2000,1900,06 Aug 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,06 Aug 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1780,1940,1865,06 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1870,1930,1900,07 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1800,2000,1890,07 Aug 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1430,07 Aug 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1820,1990,1900,07 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1840,1920,1880,08 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1750,2000,1840,08 Aug 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,08 Aug 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1800,1920,1880,08 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1800,1880,1840,09 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1900,1940,1920,10 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1800,2000,1900,10 Aug 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1820,1980,1910,10 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1880,1960,1920,11 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1900,2100,1980,11 Aug 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1850,2000,1940,11 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1870,1930,1900,12 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1900,2080,2000,12 Aug 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1830,2000,1920,12 Aug 2020
+1,Agra,Agra,Potato,Desi,FAQ,1850,2050,1950,13 Aug 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,800,850,820,13 Aug 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1850,2020,1945,13 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1900,1980,1940,14 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1900,2050,1980,14 Aug 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1900,2050,1970,14 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1900,1960,1930,15 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1900,1960,1930,16 Aug 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1430,16 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1900,1960,1930,17 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1910,2050,1985,17 Aug 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,17 Aug 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1880,2020,1950,17 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1930,2030,1980,18 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1900,2100,1980,18 Aug 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,18 Aug 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1830,2000,1925,18 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1900,1960,1930,19 Aug 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1400,1500,1450,19 Aug 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1900,2030,1960,19 Aug 2020
+1,Agra,Agra,Potato,Desi,FAQ,1925,2080,1985,20 Aug 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,1880,2000,1945,20 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1920,2000,1960,21 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1900,2100,2000,21 Aug 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,1900,2050,1970,21 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1930,2010,1970,22 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1950,2150,2050,22 Aug 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,22 Aug 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,2010,22 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1940,2020,1980,23 Aug 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,23 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1930,2030,1980,24 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,2000,2200,2100,24 Aug 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1500,1450,24 Aug 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,2045,24 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2000,2100,2050,25 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,2000,2200,2080,25 Aug 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1500,1450,25 Aug 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,1940,2100,2020,25 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2040,2120,2080,26 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1850,2050,1950,26 Aug 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2000,2120,2055,26 Aug 2020
+1,Agra,Agra,Potato,Desi,FAQ,1900,2100,2000,27 Aug 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1400,1500,1450,27 Aug 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2000,2150,2075,27 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2000,2100,2050,28 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1900,2100,1990,28 Aug 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1550,1520,28 Aug 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2000,2120,2060,28 Aug 2020
+5,Agra,Samsabad,Potato,Local,FAQ,1950,2050,2000,28 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2000,2100,2050,29 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1900,2100,2000,29 Aug 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1550,1520,29 Aug 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2040,2180,2100,29 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2000,2080,2040,30 Aug 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1400,1480,1450,30 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2020,2100,2060,31 Aug 2020
+2,Agra,Agra,Potato,Desi,FAQ,1900,2100,1980,31 Aug 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,31 Aug 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2100,2220,2150,31 Aug 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,31 Aug 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1950,2050,2000,01 Sep 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,01 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2000,2080,2040,02 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,1900,2100,2000,02 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1550,1520,02 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2060,2200,2140,02 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2010,2090,2050,03 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,1900,2100,1980,03 Sep 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2020,2200,2110,03 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,1970,2030,2000,04 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2000,2200,2080,04 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1550,1520,04 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2060,2200,2135,04 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2000,2060,2030,05 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2000,2200,2100,05 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,05 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2120,2200,2165,05 Sep 2020
+1,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,06 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2020,2100,2060,07 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2000,2200,2080,07 Sep 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2070,2200,2145,07 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2020,2120,2080,08 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2050,2250,2150,08 Sep 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2100,2240,2170,08 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2030,2130,2080,09 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2000,2200,2120,09 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1400,1450,1420,09 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2100,2240,2160,09 Sep 2020
+1,Agra,Achnera,Potato,Potato,FAQ,2050,2150,2100,10 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2000,2200,2100,10 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,10 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2150,2220,2185,10 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2050,2150,2100,11 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2050,2250,2170,11 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,11 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2100,2250,2170,11 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2060,2140,2100,12 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2100,2300,2200,12 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,12 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2150,2250,2200,12 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2050,2150,2100,13 Sep 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,2000,2100,2050,13 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2100,2200,2150,14 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2100,2300,2200,14 Sep 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2200,2290,2245,14 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2150,2250,2200,15 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2100,2400,2240,15 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1800,1900,1850,15 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2200,2340,2270,15 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2200,2300,2250,16 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2100,2300,2210,16 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,16 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2200,2320,2250,16 Sep 2020
+1,Agra,Agra,Potato,Desi,FAQ,2120,2350,2250,17 Sep 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1750,1850,1800,17 Sep 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2250,2350,2300,17 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2200,2350,2250,18 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2200,2400,2280,18 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2000,2100,2050,18 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2200,2320,2280,18 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2240,2340,2290,19 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2100,2350,2250,19 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2000,2100,2050,19 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2220,2380,2300,19 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2200,2300,2250,20 Sep 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1800,1900,1850,20 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2250,2350,2300,21 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2200,2400,2300,21 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1800,1900,1850,21 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2270,2400,2345,21 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2280,2360,2320,22 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2200,2400,2280,22 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1800,1850,1820,22 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2260,2380,2320,22 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2270,2350,2310,23 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2300,2500,2380,23 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1850,2000,1900,23 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2260,2400,2340,23 Sep 2020
+1,Agra,Agra,Potato,Desi,FAQ,2300,2500,2400,24 Sep 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1750,1800,1780,24 Sep 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2300,2420,2365,24 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2350,2450,2400,25 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2200,2500,2350,25 Sep 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2300,2420,2350,25 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2300,2400,2350,26 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2300,2500,2400,26 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1850,1900,1870,26 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2300,2450,2370,26 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2380,2460,2420,27 Sep 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1800,1870,1860,27 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2400,2480,2440,28 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2400,2600,2500,28 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2000,2050,2020,28 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2340,2450,2390,28 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2400,2500,2450,29 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2350,2550,2480,29 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1800,1850,1820,29 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2350,2480,2420,29 Sep 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2420,2500,2460,30 Sep 2020
+2,Agra,Agra,Potato,Desi,FAQ,2350,2600,2470,30 Sep 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1850,1950,1900,30 Sep 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2320,2480,2405,30 Sep 2020
+1,Agra,Fatehabad,Potato,Desi,FAQ,1850,2000,1900,01 Oct 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,2320,2480,2400,01 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2400,2500,2450,02 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2300,2550,2450,02 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1850,1950,1900,02 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2350,2500,2420,02 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2400,2500,2450,03 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2350,2600,2480,03 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1850,1950,1900,03 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2320,2480,2405,03 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2460,2540,2500,04 Oct 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1800,1900,1850,04 Oct 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,1450,1500,1475,04 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2500,2580,2540,05 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2400,2600,2500,05 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,05 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2350,2500,2425,05 Oct 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1470,1530,1500,05 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2480,2560,2520,06 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2350,2600,2480,06 Oct 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2320,2500,2410,06 Oct 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,1500,1600,1550,06 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2470,2530,2500,07 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2400,2600,2500,07 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,07 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2340,2540,2440,07 Oct 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1500,1600,1550,07 Oct 2020
+1,Agra,Agra,Potato,Desi,FAQ,2400,2600,2510,08 Oct 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,2325,2525,2425,08 Oct 2020
+1,Agra,Agra,Potato,Desi,FAQ,2400,2650,2520,09 Oct 2020
+2,Agra,Fatehpur Sikri,Potato,Local,FAQ,2340,2540,2495,09 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2500,2560,2530,10 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2420,2650,2525,10 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1550,1520,10 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2320,2480,2400,10 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2500,2580,2540,11 Oct 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,11 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2500,2580,2540,12 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2400,2600,2515,12 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,12 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2320,2500,2410,12 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2500,2560,2530,13 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2300,2550,2450,13 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,13 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2300,2450,2390,13 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2400,2500,2450,14 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2350,2600,2470,14 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,14 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2300,2520,2415,14 Oct 2020
+1,Agra,Agra,Potato,Desi,FAQ,2400,2600,2500,15 Oct 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,15 Oct 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2320,2540,2440,15 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2450,2550,2500,16 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2400,2600,2510,16 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1550,1520,16 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2400,2550,2470,16 Oct 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1500,1600,1550,16 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2450,2550,2500,17 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2400,2600,2500,17 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1800,1850,1820,17 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2350,2550,2455,17 Oct 2020
+5,Agra,Jagnair,Potato,Other,FAQ,1550,1650,1600,17 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2450,2550,2500,18 Oct 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1500,1550,1530,18 Oct 2020
+3,Agra,Jagnair,Potato,Desi,FAQ,1550,1650,1600,18 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2450,2550,2500,19 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2400,2600,2500,19 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1800,1900,1850,19 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2325,2525,2425,19 Oct 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,1500,1550,1525,19 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2500,2600,2550,20 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2400,2600,2490,20 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1800,1900,1850,20 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2365,2565,2465,20 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2500,2600,2550,21 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2400,2600,2480,21 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2000,2100,2050,21 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2400,2600,2500,21 Oct 2020
+1,Agra,Agra,Potato,Desi,FAQ,2400,2600,2500,22 Oct 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,2000,2100,2050,22 Oct 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2445,2645,2545,22 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2500,2580,2540,23 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2550,2800,2680,23 Oct 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2470,2700,2570,23 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2550,2650,2600,24 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2600,2850,2700,24 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1500,1600,1550,24 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2520,2750,2620,24 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2550,2650,2600,25 Oct 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,2000,2100,2060,25 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2550,2650,2600,26 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2650,2850,2780,26 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1800,1900,1850,26 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2700,2780,2740,27 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2500,2750,2650,27 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1800,1900,1850,27 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2570,2770,2670,27 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2600,2700,2650,28 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2600,2850,2750,28 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2000,2200,2050,28 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2600,2850,2700,28 Oct 2020
+1,Agra,Agra,Potato,Desi,FAQ,2650,2900,2770,29 Oct 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1800,1850,1820,29 Oct 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2600,2800,2685,29 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2600,2680,2640,30 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2700,2950,2780,30 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2000,2100,2050,30 Oct 2020
+4,Agra,Jarar,Potato,Desi,FAQ,2550,2750,2650,30 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2600,2700,2650,31 Oct 2020
+2,Agra,Agra,Potato,Desi,FAQ,2700,2950,2790,31 Oct 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2000,2100,2050,31 Oct 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2620,2850,2745,31 Oct 2020
+5,Agra,Samsabad,Potato,Local,FAQ,2700,2800,2750,31 Oct 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2740,2820,2780,01 Nov 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,2000,2100,2060,01 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2640,2720,2680,02 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2650,2900,2780,02 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1800,1900,1850,02 Nov 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2680,2900,2780,02 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2750,2850,2800,03 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2700,2900,2800,03 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2000,2100,2050,03 Nov 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2700,2900,2810,03 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2750,2850,2800,04 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2700,2950,2820,04 Nov 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2700,2900,2795,04 Nov 2020
+1,Agra,Agra,Potato,Desi,FAQ,2750,3000,2870,05 Nov 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,2000,2100,2050,05 Nov 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2650,2900,2780,05 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2750,2850,2800,06 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2700,2900,2800,06 Nov 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2500,2800,2665,06 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2780,2860,2820,07 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2700,2950,2810,07 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1800,1900,1850,07 Nov 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2550,2850,2700,07 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2750,2850,2800,08 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2750,2850,2800,09 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2700,2950,2820,09 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2000,2200,2050,09 Nov 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2650,2900,2765,09 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2750,2850,2800,10 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2700,3000,2850,10 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2200,2300,2250,10 Nov 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2650,2950,2800,10 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2780,2860,2820,11 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2700,2950,2820,11 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2000,2100,2050,11 Nov 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2650,2900,2780,11 Nov 2020
+1,Agra,Agra,Potato,Desi,FAQ,2700,3000,2840,12 Nov 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1800,1900,1850,12 Nov 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2700,2950,2815,12 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2800,2880,2840,13 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2750,3000,2850,13 Nov 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2700,3000,2850,13 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2800,2860,2830,14 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2750,3000,2880,14 Nov 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2800,2950,2875,14 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2800,2860,2830,15 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2800,2880,2840,16 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2750,3000,2880,16 Nov 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2800,2950,2890,16 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2800,2880,2840,17 Nov 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,1900,2000,1950,17 Nov 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2750,2950,2865,17 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2840,2920,2880,18 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2750,3000,2880,18 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,1800,1850,1820,18 Nov 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2750,2950,2875,18 Nov 2020
+1,Agra,Agra,Potato,Desi,FAQ,2800,3000,2900,19 Nov 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,2000,2050,2020,19 Nov 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2750,2980,2860,19 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2850,2950,2900,20 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2800,3000,2890,20 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2500,2550,2520,20 Nov 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2700,3000,2885,20 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2840,2920,2880,21 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2700,3000,2850,21 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2500,2600,2550,21 Nov 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2800,3000,2900,21 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2820,2900,2860,22 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2840,2920,2880,23 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2750,3000,2880,23 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2500,2600,2550,23 Nov 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2800,3000,2920,23 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2850,2950,2900,24 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2800,3000,2900,24 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2700,2800,2750,24 Nov 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2800,3000,2905,24 Nov 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,2500,2700,2600,24 Nov 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,2800,3000,2900,24 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2850,2950,2900,25 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2800,3000,2890,25 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2700,2750,2720,25 Nov 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2700,3000,2890,25 Nov 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,3000,3200,3100,25 Nov 2020
+1,Agra,Agra,Potato,Desi,FAQ,2750,2950,2880,26 Nov 2020
+2,Agra,Fatehabad,Potato,Desi,FAQ,2700,2800,2750,26 Nov 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,0,0,2910,26 Nov 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,2500,2700,2600,26 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2830,2910,2870,27 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2750,2950,2870,27 Nov 2020
+3,Agra,Fatehpur Sikri,Potato,Local,FAQ,2800,3100,2945,27 Nov 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,2500,2700,2600,27 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2820,2900,2860,28 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2800,3000,2900,28 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2700,2750,2730,28 Nov 2020
+4,Agra,Jagnair,Potato,Desi,FAQ,2500,2700,2600,28 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,3750,3850,3800,29 Nov 2020
+2,Agra,Khairagarh,Potato,Desi,FAQ,2800,3000,2900,29 Nov 2020
+1,Agra,Achnera,Potato,Desi,FAQ,2830,2930,2880,30 Nov 2020
+2,Agra,Agra,Potato,Desi,FAQ,2800,3100,2950,30 Nov 2020
+3,Agra,Fatehabad,Potato,Desi,FAQ,2700,2800,2740,30 Nov 2020
+4,Agra,Fatehpur Sikri,Potato,Local,FAQ,2900,3050,2960,30 Nov 2020
+5,Agra,Jagnair,Potato,Desi,FAQ,2600,2700,2650,30 Nov 2020
+6,Agra,Khairagarh,Potato,Desi,FAQ,2800,3000,2900,30 Nov 2020
