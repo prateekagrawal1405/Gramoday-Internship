@@ -8,3 +8,23 @@ The following file `fetch_data_v1.py` downloads the required data and exports it
 
 - pandas
 - tqdm
+
+
+# EDA
+
+The file `EDA.py` does a basic exploratory data analysis and exports the trends for each market in a folder `price_prediction`. Note that the folder needs to be already there thought it may be empty
+
+## Dependencies
+
+- pandas
+- seaborn
+- matplotlib
+
+# Machine Learning Modeling 
+
+The output and the results are mentioned in the docx file. The file `AutoML_Regression_Pycaret.ipynb` contains the source code for AutoML Modelling and its results as well.
+
+## Dependencies
+Note : Run the ipynb file in colab for easy usage.
+- pandas
+- pycaret
